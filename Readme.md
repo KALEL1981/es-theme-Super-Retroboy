@@ -135,3 +135,5 @@ wwf
 zelda
 zmachine
 zxspectrum
+
+** there is a launching image folder with a launching.png inside to match the theme
