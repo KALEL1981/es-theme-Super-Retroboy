@@ -123,6 +123,8 @@ intellivision
 
 kodi
 
+konami
+
 macintosh
 
 mame
@@ -203,11 +205,17 @@ simpsons
 
 snes
 
+snk
+
+splatterhouse
+
 steam
 
 streetfighter
 
 supergrafx
+
+tecmo
 
 tg-cd
 
