@@ -81,6 +81,12 @@ colecovision
 
 contra
 
+cps1
+
+cps2
+
+cps3
+
 custom-collections
 
 daphne
@@ -136,6 +142,8 @@ mame-libretro
 mame-mame4all
 
 mario
+
+markiii
 
 mastersystem
 
