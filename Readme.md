@@ -175,6 +175,8 @@ ngpc
 
 odyssey2
 
+pacman
+
 pc
 
 pce-cd
@@ -213,7 +215,11 @@ simpsons
 
 snes
 
+snes-cd
+
 snk
+
+sonic
 
 splatterhouse
 
@@ -224,6 +230,8 @@ streetfighter
 supergrafx
 
 tecmo
+
+tetris
 
 tg-cd
 
@@ -246,6 +254,8 @@ wonderswan
 wonderswancolor
 
 wwf
+
+x68000
 
 zelda
 
