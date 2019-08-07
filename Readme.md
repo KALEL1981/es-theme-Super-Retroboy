@@ -71,6 +71,8 @@ auto-lastplayed
 
 batman
 
+bomberman
+
 c65
 
 capcom
@@ -153,6 +155,8 @@ megacd
 
 megadrive
 
+megaman
+
 metalslug
 
 midway
@@ -196,6 +200,8 @@ psp
 psx
 
 retropie
+
+robocop
 
 saturn
 
