@@ -229,6 +229,8 @@ sonic
 
 splatterhouse
 
+starwars
+
 steam
 
 streetfighter
