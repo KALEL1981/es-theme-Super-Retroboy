@@ -179,6 +179,8 @@ ngpc
 
 odyssey2
 
+openbor
+
 pacman
 
 pc
