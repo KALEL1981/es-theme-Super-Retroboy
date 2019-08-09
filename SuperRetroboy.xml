@@ -98,7 +98,7 @@ version         2.0
          <pos>0 0</pos>
          <size>1 1</size>        
          <path>./_inc/images/background_basic.png</path>
-         <zIndex>2</zIndex>          
+         <zIndex>3</zIndex>          
       </image>                
    </view> 
     
@@ -108,7 +108,7 @@ version         2.0
          <pos>0 0</pos>
          <size>1 1</size>        
          <path>./_inc/images/background_video.png</path>
-         <zIndex>2</zIndex>         
+         <zIndex>3</zIndex>         
       </image>                
    </view>     
    
@@ -117,7 +117,7 @@ version         2.0
          <origin>0.5 0.5</origin>
          <pos>0.75 0.66</pos>
          <maxSize>0.45 0.45</maxSize>
-         <zIndex>3</zIndex>         
+         <zIndex>2</zIndex>         
       </image>      
    </view>
 
@@ -125,9 +125,9 @@ version         2.0
       <video name="md_video">
          <origin>0.5 0.5</origin>
          <pos>0.75 0.66</pos>
-         <maxSize>0.45 0.45</maxSize>
+         <maxSize>0.51 0.51</maxSize>
          <delay>3</delay>
-         <zIndex>3</zIndex>         
+         <zIndex>2</zIndex>         
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
       </video>             
@@ -139,6 +139,7 @@ version         2.0
          <zIndex>5</zIndex>       
          <pos>0.825 0.345</pos>
          <size>0.04 0.04</size>
+         <zIndex>2</zIndex>
          <filledPath>./_inc/images/star_full.png</filledPath>
          <unfilledPath>./_inc/images/star_hollow.png</unfilledPath>
       </rating>
@@ -147,28 +148,28 @@ version         2.0
          <pos>0.825 0.31</pos>
          <size>0.6 0.6</size>
          <color>ffffff</color>
-         <zIndex>4</zIndex> 
+         <zIndex>2</zIndex> 
       </text>
       <text name="md_developer">
          <origin>0.5 0.5</origin>
          <pos>0.925 0.31</pos>
          <size>0.6 0.6</size>
          <color>ffffff</color>
-         <zIndex>4</zIndex>
+         <zIndex>2</zIndex>
       </text>
       <text name="md_lbl_releasedate">
          <origin>0.5 0.5</origin>
          <pos>0.825 0.35</pos>
          <size>0.6 0.6</size>
          <color>ffffff</color>
-         <zIndex>4</zIndex>                  
+         <zIndex>2</zIndex>                  
       </text>
       <datetime name="md_releasedate">
          <origin>0.5 0.5</origin>
          <pos>0.925 0.35</pos>
          <size>0.6 0.6</size>
          <color>ffffff</color>
-         <zIndex>4</zIndex>         
+         <zIndex>2</zIndex>         
       </datetime>
       
    </view>
