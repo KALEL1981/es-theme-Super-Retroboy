@@ -73,7 +73,7 @@ batman
 
 bomberman
 
-c65
+c64
 
 capcom
 
