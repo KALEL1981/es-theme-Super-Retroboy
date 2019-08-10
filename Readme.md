@@ -189,6 +189,8 @@ pce-cd
 
 pcengine
 
+pico8
+
 pokemon
 
 poker
