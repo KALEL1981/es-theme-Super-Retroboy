@@ -103,6 +103,8 @@ donkeykong
 
 dreamcast
 
+famicom-classic
+
 famicom
 
 fatalfury
@@ -171,6 +173,8 @@ nds
 
 neogeo
 
+nes-classic
+
 nes
 
 ngp
@@ -201,6 +205,8 @@ ps2
 
 psp
 
+psx-classic
+
 psx
 
 retropie
@@ -217,15 +223,21 @@ segacd
 
 segamarkiii
 
+sfc-cd
+
+sfc-classic
+
 sfc
 
 sg-1000
 
 simpsons
 
-snes
-
 snes-cd
+
+snes-classic
+
+snes
 
 snk
 
