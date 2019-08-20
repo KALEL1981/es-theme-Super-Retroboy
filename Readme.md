@@ -145,6 +145,8 @@ hacks
 
 intellivision
 
+kirby
+
 kodi
 
 konami
