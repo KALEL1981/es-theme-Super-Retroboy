@@ -105,6 +105,8 @@ dreamcast
 
 famicom-classic
 
+famicom-hacks
+
 famicom
 
 fatalfury
@@ -119,15 +121,27 @@ finalfantasy
 
 gameandwatch
 
+gamegear-hacks
+
 gamegear
+
+gb-hacks
 
 gb
 
+gba-hacks
+
 gba
+
+gbc-hacks
 
 gbc
 
+genesis-hacks
+
 genesis
+
+hacks
 
 intellivision
 
@@ -155,6 +169,8 @@ mega32x
 
 megacd
 
+megadrive-hacks
+
 megadrive
 
 megaman
@@ -174,6 +190,8 @@ nds
 neogeo
 
 nes-classic
+
+nes-hacks
 
 nes
 
@@ -227,6 +245,8 @@ sfc-cd
 
 sfc-classic
 
+sfc-hacks
+
 sfc
 
 sg-1000
@@ -236,6 +256,8 @@ simpsons
 snes-cd
 
 snes-classic
+
+snes-hacks
 
 snes
 
