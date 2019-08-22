@@ -9,6 +9,9 @@
 ### And add
 
 ```
+<?xml version="1.0"?>
+<gameList>
+
 	<game>
 		<path>./GPi-Tools/theme_menu.sh</path>
 		<name>GPi Theme Menu</name>
