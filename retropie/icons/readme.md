@@ -31,7 +31,7 @@
 		<playcount>11</playcount>
 		<lastplayed>20190821T231110</lastplayed>
 		<desc>Xboxdrv - Advanced Framework Updater by Adam.</desc>
-        	<image>./icons/gpitools.png</image>
+        	<image>./icons/controllertools.png</image>
 	</game>
 	<game>
 		<path>./GPi-Tools/Kernel_Boot_Logo.sh</path>
