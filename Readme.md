@@ -181,6 +181,8 @@ megaman
 
 metalslug
 
+metroid
+
 midway
 
 mortalkombat
@@ -217,7 +219,11 @@ pcengine
 
 pico8
 
+pokemini
+
 pokemon
+
+pokemon_hacks
 
 poker
 
