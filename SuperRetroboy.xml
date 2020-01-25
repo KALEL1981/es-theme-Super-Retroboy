@@ -69,7 +69,7 @@ version         2.2
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>3eb4ff</secondaryColor>
          <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
-         <fontSize>0.04</fontSize>
+         <fontSize>0.042</fontSize>
          <forceUppercase>1</forceUppercase>
          <scrollSound>./_inc/sounds/Move.wav</scrollSound>
          <zIndex>3</zIndex>                          
