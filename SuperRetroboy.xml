@@ -4,7 +4,7 @@ creator:		Travis Wilson (Super Retropie)
 facebook:		www.facebook.com/groups/superretropie
 twitter:		www.twitter.com/superretropie
 email:			superretropieretrogaming@gmail.com
-version         2.0
+version         2.2
 -->
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -69,7 +69,7 @@ version         2.0
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>3eb4ff</secondaryColor>
          <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
-         <fontSize>0.06</fontSize>
+         <fontSize>0.04</fontSize>
          <forceUppercase>1</forceUppercase>
          <scrollSound>./_inc/sounds/Move.wav</scrollSound>
          <zIndex>3</zIndex>                          
@@ -98,7 +98,14 @@ version         2.0
          <pos>0 0</pos>
          <size>1 1</size>        
          <path>./_inc/images/background_basic.png</path>
-         <zIndex>3</zIndex>          
+         <zIndex>2</zIndex>          
+      </image>
+      <image name="background2" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>        
+         <path>./_inc/images/background_black.png</path>
+         <zIndex>1</zIndex>          
       </image>                
    </view> 
     
@@ -108,8 +115,15 @@ version         2.0
          <pos>0 0</pos>
          <size>1 1</size>        
          <path>./_inc/images/background_video.png</path>
-         <zIndex>3</zIndex>         
-      </image>                
+         <zIndex>2</zIndex>         
+      </image>
+      <image name="background2" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>        
+         <path>./_inc/images/background_black.png</path>
+         <zIndex>1</zIndex>          
+      </image>               
    </view>     
    
    <view name="detailed">
