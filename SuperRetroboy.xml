@@ -4,7 +4,7 @@ creator:		Travis Wilson (Super Retropie)
 facebook:		www.facebook.com/groups/superretropie
 twitter:		www.twitter.com/superretropie
 email:			superretropieretrogaming@gmail.com
-version         2.2
+version         2.4
 -->
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -185,6 +185,11 @@ version         2.2
          <color>ffffff</color>
          <zIndex>2</zIndex>         
       </datetime>
+      <image name="md_marquee">
+         <pos>1 1</pos>
+         <origin>0.5 0.5</origin>
+         <maxSize>0.1 0.1</maxSize>
+         <zIndex>1</zIndex> 
    </view>
    
 </theme>
