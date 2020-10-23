@@ -189,7 +189,8 @@ version         2.4
          <pos>1 1</pos>
          <origin>0.5 0.5</origin>
          <maxSize>0.1 0.1</maxSize>
-         <zIndex>1</zIndex> 
+         <zIndex>1</zIndex>         
+      </image>
    </view>
    
 </theme>
