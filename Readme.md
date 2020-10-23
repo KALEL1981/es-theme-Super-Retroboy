@@ -16,20 +16,11 @@ Commercial distribution is prohibited
 
 ------------------------------------------------------------------------------------------
 
-## Remove the Old folder if it exists
-```shell
-sudo rm -r "/etc/emulationstation/themes/Super Retroboy/"
-```
+Travis Wilson / Super Retropie and Retro Gaming / made this theme. 
 
-## Install a fresh copy
-```shell
-sudo mkdir -p "/etc/emulationstation/themes/Super Retroboy/" && sudo git clone https://github.com/KALEL1981/Super_Retroboy_Theme.git "/etc/emulationstation/themes/Super Retroboy/" --branch master --depth=1
-```
+This theme is not for use with any kind of loaded images. 
 
-## Use Alternate background for main menu
-```shell
-sudo mv "/etc/emulationstation/themes/Super Retroboy/background.png" "/etc/emulationstation/themes/Super Retroboy/background_3.png" && sudo mv "/etc/emulationstation/themes/Super Retroboy/background_2.png" "/etc/emulationstation/themes/Super Retroboy/background.png"
-```
+This theme is not for use with anything Supreme Retro Gaming related.
 
 ------------------------------------------------------------------------------------------
 
