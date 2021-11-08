@@ -1,0 +1,194 @@
+<!--
+theme name:     Super Retroboy V2 Theme
+creator:		Travis Wilson (KALEL1981 / Super Retro City)
+version:        1.0
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+   <formatVersion>4</formatVersion>
+
+<feature supported="carousel">
+   <view name="system">
+      <carousel name="systemcarousel">
+        <type>vertical</type>
+        <pos>0.0 0.0</pos>
+        <logoAlignment>middle</logoAlignment>         
+        <size>1 1</size>
+        <logoScale>1.5</logoScale>
+        <zIndex>5</zIndex>          
+        <logoSize>0.5 0.5</logoSize>
+        <color>00000000</color>
+        <maxLogoCount>3</maxLogoCount>       
+      </carousel>
+      <image name="background" extra="true">
+        <origin>0 0</origin>
+        <pos>0 0</pos>
+        <size>1 1</size>
+        <zIndex>2</zIndex>                 
+        <path>./_inc/images/background.png</path>
+      </image>                      
+      <text name="systemInfo">     
+        <pos>1 1</pos>
+        <backgroundColor>00000000</backgroundColor>
+        <color>ffffff</color>
+        <fontPath>./_inc/fonts/font_main.otf</fontPath>
+	    <fontSize>0.04</fontSize>
+        <zIndex>1</zIndex>	     
+      </text>            
+   </view>
+</feature>
+
+   <view name="system">
+      <helpsystem name="help">
+        <fontPath>./_inc/fonts/font_main.otf</fontPath>
+        <fontSize>0.025</fontSize>     
+        <pos>1 1</pos>      
+        <textColor>ffffff</textColor>
+        <iconColor>ffffff</iconColor>
+      </helpsystem>
+   </view>  
+
+   <view name="detailed,video,basic">
+      <helpsystem name="help">
+        <fontPath>./_inc/fonts/font_main.otf</fontPath>
+        <fontSize>0.024</fontSize>     
+        <pos>1 1</pos>      
+        <textColor>ffffff</textColor>
+        <iconColor>ffffff</iconColor>
+      </helpsystem>
+   </view>  
+
+   <view name="basic,detailed,video">
+      <textlist name="gamelist">      
+        <selectorColor>00000000</selectorColor>
+        <selectedColor>2883ff</selectedColor>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>2883ff</secondaryColor>
+        <fontPath>./_inc/fonts/font_main.otf</fontPath>
+        <fontSize>0.0415</fontSize>
+        <forceUppercase>1</forceUppercase>
+        <lineSpacing>1.4</lineSpacing>
+        <scrollSound>./_inc/sounds/Move.wav</scrollSound>
+        <zIndex>5</zIndex>                          
+      </textlist>
+   </view> 
+   
+   <view name="detailed,video">
+      <textlist name="gamelist">                          
+        <pos>0.01 0.005</pos>
+        <size>0.47 0.98</size>
+        <alignment>left</alignment>                       
+      </textlist>
+   </view>
+   
+   <view name="basic">
+      <textlist name="gamelist">                          
+        <pos>0.010 0.16</pos>
+        <size>1 0.84</size>
+        <alignment>center</alignment>                       
+      </textlist>
+   </view>
+   
+   <view name="basic">
+      <image name="background" extra="true">
+        <origin>0 0</origin>
+        <pos>0 0</pos>
+        <size>1 1</size>        
+        <path>./_inc/images/background_basic.png</path>
+        <zIndex>3</zIndex>          
+      </image>
+      <image name="background2" extra="true">
+        <origin>0 0</origin>
+        <pos>0 0</pos>
+        <size>1 1</size>        
+        <path>./_inc/images/background_black.png</path>
+        <zIndex>1</zIndex>          
+      </image>                
+   </view> 
+    
+   <view name="detailed,video">
+      <image name="background" extra="true">
+        <origin>0 0</origin>
+        <pos>0 0</pos>
+        <size>1 1</size>        
+        <path>./_inc/images/background_video.png</path>
+        <zIndex>3</zIndex>         
+      </image>
+      <image name="background2" extra="true">
+        <origin>0 0</origin>
+        <pos>0 0</pos>
+        <size>1 1</size>        
+        <path>./_inc/images/background_black.png</path>
+        <zIndex>1</zIndex>          
+      </image>               
+   </view>     
+   
+   <view name="detailed,video">
+      <image name="md_image">
+        <origin>0.5 0.5</origin>
+        <pos>0.75 0.73</pos>
+        <maxSize>0.45 0.45</maxSize>
+        <zIndex>5</zIndex>         
+      </image>      
+   </view>
+
+   <view name="video">   
+      <video name="md_video">
+        <origin>0.5 0.5</origin>
+        <pos>0.75 0.73</pos>
+        <maxSize>0.45 0.45</maxSize>
+        <delay>2</delay>
+        <zIndex>2</zIndex>         
+        <showSnapshotNoVideo>true</showSnapshotNoVideo>
+        <showSnapshotDelay>true</showSnapshotDelay>
+      </video>             
+   </view>
+   
+   <view name="detailed,video">
+      <rating name="md_rating">
+        <origin>0.5 0.5</origin>
+        <zIndex>5</zIndex>       
+        <pos>1 1</pos>
+        <size>0.04 0.04</size>
+        <zIndex>2</zIndex>
+        <filledPath>./_inc/images/star_full.png</filledPath>
+        <unfilledPath>./_inc/images/star_hollow.png</unfilledPath>
+      </rating>
+      <text name="md_lbl_developer">
+        <origin>0.5 0.5</origin>
+        <pos>1 1</pos>
+        <size>0.6 0.6</size>
+        <color>ffffff</color>
+        <zIndex>2</zIndex> 
+      </text>
+      <text name="md_developer">
+        <origin>0.5 0.5</origin>
+        <pos>1 1</pos>
+        <size>0.6 0.6</size>
+        <color>ffffff</color>
+        <zIndex>2</zIndex>
+      </text>
+      <text name="md_lbl_releasedate">
+        <origin>0.5 0.5</origin>
+        <pos>1 1</pos>
+        <size>0.6 0.6</size>
+        <color>ffffff</color>
+        <zIndex>2</zIndex>                  
+      </text>
+      <datetime name="md_releasedate">
+        <origin>0.5 0.5</origin>
+        <pos>1 1</pos>
+        <size>0.6 0.6</size>
+        <color>ffffff</color>
+        <zIndex>2</zIndex>         
+      </datetime>
+      <image name="md_marquee">
+        <pos>1 1</pos>
+        <origin>0.5 0.5</origin>
+        <maxSize>0.1 0.1</maxSize>
+        <zIndex>2</zIndex>         
+      </image>
+   </view>
+   
+</theme>
