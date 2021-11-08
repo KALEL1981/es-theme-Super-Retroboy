@@ -1,8 +1,8 @@
-Super Retroboy Theme designed by Travis Wilson (Super Retro City)
+Super Retroboy Theme designed by Travis Wilson (Super Retropie)
 facebook:		www.facebook.com/groups/superretropie
-twitter:		www.twitter.com/superretrocity
-email:			superretrocity@gmail.com
-version         1.0
+twitter:		www.twitter.com/superretropie
+email:			superretropieretrogaming@gmail.com
+version         2.0
 
 ------------------------------------------------------------------------------------------
 
@@ -18,7 +18,9 @@ Commercial distribution is prohibited
 
 Travis Wilson / Super Retropie and Retro Gaming / made this theme. 
 
-This theme is not for use with any kind of loaded images.
+This theme is not for use with any kind of loaded images. 
+
+This theme is not for use with anything Supreme Retro Gaming related.
 
 ------------------------------------------------------------------------------------------
 
